@@ -24,3 +24,5 @@ Simple web app that pulls population and flag data based on country query.
 Population data from restcountries.com API.
 
 Feedback and contributions welcomed!
+
+test
